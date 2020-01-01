@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79880b7a-4874-41a9-9954-c3b01755a153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1VNoPkvUyptbQFnvM6HoO3Tjnzg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/books/Templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\reviews\templatetags" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79880b7a-4874-41a9-9954-c3b01755a153" name="Default Changelist" comment="" />
+      <created>1577102891132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577102891132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="168" key="#Inspections" timestamp="1577454771798">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="79" y="168" key="#Inspections/0.0.1920.1019@0.0.1920.1019" timestamp="1577454771798" />
+    <state x="962" y="277" key="FileChooserDialogImpl" timestamp="1577892074823">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="962" y="277" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1577892074823" />
+    <state width="936" height="274" key="GridCell.Tab.0.bottom" timestamp="1577196724988">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1577196724988" />
+    <state width="936" height="274" key="GridCell.Tab.0.center" timestamp="1577196724988">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1577196724988" />
+    <state width="936" height="274" key="GridCell.Tab.0.left" timestamp="1577196724988">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1577196724988" />
+    <state width="936" height="274" key="GridCell.Tab.0.right" timestamp="1577196724988">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="936" height="274" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1577196724988" />
+    <state x="514" y="230" key="SettingsEditor" timestamp="1577102960675">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="514" y="230" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1577102960675" />
+    <state x="705" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1577856308051">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="705" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577856308051" />
+    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577525042700">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1577525042700" />
+    <state x="919" y="0" width="718" height="997" key="dock-window-1" timestamp="1577879807566">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="919" y="0" width="718" height="997" key="dock-window-1/0.0.1920.1019@0.0.1920.1019" timestamp="1577879807566" />
+    <state x="738" y="116" width="718" height="716" key="dock-window-2" timestamp="1577882984946">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="738" y="116" width="718" height="716" key="dock-window-2/0.0.1920.1019@0.0.1920.1019" timestamp="1577882984946" />
+    <state x="1014" y="207" width="718" height="703" key="dock-window-3" timestamp="1577891374013">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="1014" y="207" width="718" height="703" key="dock-window-3/0.0.1920.1019@0.0.1920.1019" timestamp="1577891374013" />
+    <state x="143" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1577720559108">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="143" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1577720559108" />
+  </component>
+</project>

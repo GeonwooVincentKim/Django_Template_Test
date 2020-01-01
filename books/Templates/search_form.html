@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body>
+    <!--        <p style="color: red;">-->
+    <!--            Please submit a search term 20 characters or shorter.-->
+    <!--        </p>-->
+    {% if errors %}
+        <ul>
+            {% for error in errors %}
+            <li style="color: red;">{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    <form action="/books/search/" method="get">
+        <!--
+            Input and set name as "q"
+        -->
+        <input type="text" name="q">
+        <!--
+            If user press the button, named Search,
+            it just go to Search function located
+            books->views.py
+         -->
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>

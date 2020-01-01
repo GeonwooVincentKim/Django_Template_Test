@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        <!--
+            There is no special contents.
+            I just made Templates, block title.
+        -->
+        {% block title %}{% endblock %}
+    </title>
+</head>
+<body>
+    {% autoescape off %}
+    <h1>My Helpful Timestamp site</h1>
+    <h2>Funny Django</h2>
+    {% block content %} {% endblock %}
+    {% block footer %} {% endblock %}
+    {% endautoescape %}
+</body>
+</html>

@@ -1,0 +1,16 @@
+{% load books/template_tags/review_extras %}
+<!--{% load staticfiles %}-->
+<!--{% jump link %}-->
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    {% block content %}
+    {% endblock %}
+    {% block footer %}
+    {% endblock %}
+</body>
+</html>

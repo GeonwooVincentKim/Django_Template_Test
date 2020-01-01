@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Template1</title>
+</head>
+<body>
+    <p>{{ message }}</p>
+    Auto-escaping is on by default. Hello {{ name }}.
+    {% autoescape off %}
+        This will note be auto-escaped: {{ data }}.
+        Nor this: {{ other_data }}
+        {% autoescape on %}
+            Auto-escaping applies again: {{ name }}
+        {% endautoescape %}
+<!--        Hello {{ name }}-->
+    {% endautoescape %}
+<!--    This will be escaped: &lt;b&gt;-->
+<!--    This will note be escaped : <b></b>-->
+</body>
+</html>
