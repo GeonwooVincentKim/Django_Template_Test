@@ -15,8 +15,8 @@ from django.core.urlresolvers import reverse
 
 from django.conf import settings
 
-t = get_template('book_snippet.html')
-register = template.Library()
+# t = get_template('book_snippet.html')
+# register = template.Library()
 
 
 def current_datetime(request):

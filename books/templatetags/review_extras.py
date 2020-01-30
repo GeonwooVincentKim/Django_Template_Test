@@ -45,3 +45,6 @@ def current_time(format_string):
     return datetime.datetime.now().strftime(format_string)
 
 
+@register.assignment_tag
+def get_current_time(format_string):
+    return datetime.datetime.now().strftime(format_string)

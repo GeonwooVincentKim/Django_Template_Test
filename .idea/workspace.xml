@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79880b7a-4874-41a9-9954-c3b01755a153" name="Default Changelist" comment="" />
+    <list default="true" id="79880b7a-4874-41a9-9954-c3b01755a153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How_To_Make_Django_Program.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author_headshots/1.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author_headshots/1_LaeB6Y3.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_books.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Templates/publisher_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/books/Templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/Templates/template_tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/books/Templates/template_tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/my_template_name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/templatetags/CurrentTimeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/templatetags/CurrentTimeNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/templatetags/review_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/templatetags/review_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -22,29 +49,34 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1VNoPkvUyptbQFnvM6HoO3Tjnzg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/books/Templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Django_txt_pdf/env_txt_pdf/txt_pdf" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templates" />
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\reviews\templatetags" />
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templatetags" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\reviews\templatetags" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -75,15 +107,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="79" y="168" key="#Inspections" timestamp="1577454771798">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="79" y="168" key="#Inspections/0.0.1920.1019@0.0.1920.1019" timestamp="1577454771798" />
-    <state x="962" y="277" key="FileChooserDialogImpl" timestamp="1577892074823">
+    <state x="1192" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578057773484">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="962" y="277" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1577892074823" />
+    <state x="1192" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1578057773484" />
+    <state x="49" y="95" key="CommitChangelistDialog2" timestamp="1580211168576">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="49" y="95" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1580211168576" />
+    <state x="962" y="277" key="FileChooserDialogImpl" timestamp="1580396839896">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="962" y="277" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1580396839896" />
     <state width="936" height="274" key="GridCell.Tab.0.bottom" timestamp="1577196724988">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -100,18 +143,18 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state width="936" height="274" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1577196724988" />
-    <state x="514" y="230" key="SettingsEditor" timestamp="1577102960675">
+    <state x="15" y="215" key="SettingsEditor" timestamp="1580392271920">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="514" y="230" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1577102960675" />
-    <state x="705" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1577856308051">
+    <state x="15" y="215" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1580392271920" />
+    <state x="705" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1580345293871">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="705" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577856308051" />
-    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577525042700">
+    <state x="705" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1580345293871" />
+    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577974089521">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1577525042700" />
+    <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1577974089521" />
     <state x="919" y="0" width="718" height="997" key="dock-window-1" timestamp="1577879807566">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -120,13 +163,28 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="738" y="116" width="718" height="716" key="dock-window-2/0.0.1920.1019@0.0.1920.1019" timestamp="1577882984946" />
-    <state x="1014" y="207" width="718" height="703" key="dock-window-3" timestamp="1577891374013">
+    <state x="1153" y="116" width="718" height="703" key="dock-window-3" timestamp="1577982567819">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="1014" y="207" width="718" height="703" key="dock-window-3/0.0.1920.1019@0.0.1920.1019" timestamp="1577891374013" />
+    <state x="1153" y="116" width="718" height="703" key="dock-window-3/0.0.1920.1019@0.0.1920.1019" timestamp="1577982567819" />
+    <state x="221" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1577965485406">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="221" y="155" key="refactoring.ChangeSignatureDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577965485406" />
     <state x="143" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1577720559108">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="143" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1577720559108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

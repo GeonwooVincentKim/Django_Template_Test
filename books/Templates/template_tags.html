@@ -4,6 +4,19 @@
 {% endblock %}
 {% block content %}
     <p>Testing...</p>
+    {{ variable|cut:"0" }}
+    {% current_time "%Y-%M-%d %I:%M %p" as the time %}
+    {% current_time "%Y-%M-%d %I:%M %p" %}
+    <p>
+        The time is {{ current_time }}.
+    </p>
+    {% current_time "%Y-%M-%d %I:%M %p" %}
+    <p>
+        The time is {{ current_time }}.
+    </p>
+    <p>
+        The time is {{ get_current_time }}.
+    </p>
     {{ somevariable|cut:"0" }}
     <ul>
         {% for book in books %}
@@ -13,9 +26,4 @@
             </li>
         {% endfor %}
     </ul>
-
-    {% get current_time "%Y-%m-%d %I:%M %p" as the_time % }
-    <p>
-        The time is {{ the_time }}. </p>
-    </p>
 {% endblock %}

@@ -58,10 +58,17 @@ TEMPLATES = [
         # And Last DIRS working
         # 'DIRS': [os.path.join(os.path.dirname(__file__), 'Templates').replace('\\', '/'), ],
         # 'DIRS': [os.path.dirname(os.path.dirname(os.path.abspath(__file__)))],
-        'DIRS': [os.path.join(BASE_DIR, 'Main/Templates', 'books/Templates')],
+        # 'DIRS': [os.path.join(BASE_DIR, 'Main/Templates')],
+        'DIRS': [
+            'E:/Django/Django_Template_1_2/MyDjango_Template_1_2/My_Django_Template_1_2/Main',
+            '/Templates',
+            'E:/Django/Django_Template_1_2/MyDjango_Template_1_2/My_Django_Template_1_2/books',
+            '/Templates',
+         ],
         # 'DIRS': [
         #      'E:/Django/Django_Template_1_2/MyDjango_Template_1_2/My_Django_Template_1_2/Main'
         #      '/Templates',
+        #  ],
         #      'E:/Django/Django_Template_1_2/MyDjango_Template_1_2/My_Django_Template_1_2/Main'
         #      '/Templates/current_datetime.html',
         #      'E:/Django/Django_Template_1_2/MyDjango_Template_1_2/My_Django_Template_1_2/Main'

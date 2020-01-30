@@ -12,22 +12,18 @@ Class-based views
 Including another URLconf
     1. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
-from django.conf import settings
+from books.views import PublisherList
 from django.conf.urls import include, url
-from django.conf.urls.static import static
 from django.contrib import admin
-from django.shortcuts import redirect
 # from django.views.debug import *
 # from My_Django_Template_1_2.Main.views import current_datetime
 # from django.urls import path, include
-from django.views.generic import TemplateView
 
 # from . import views
-from .views import current_datetime, contact
+from .views import current_datetime
 from .views import future_datetime
-from books.views import *
+
 # from reviews.templatetags.review_extras import *
-from books.templatetags.review_extras import *
 
 """
     Django output procedure
@@ -43,14 +39,17 @@ urlpatterns = [
 
     # url(r'^time/$', TemplateView.as_view(template_name='current_datetime.html')),
     # url(r'^current_datetime/')
-    url(r'^time/', current_datetime),
+    url(r'^time/$', current_datetime),
     # url(r'^reviews/', include('inner'), {}),
     url(r'^time/plus/(d{1,2})/$', future_datetime),
     # url(r'^future_time/plus/(\d+)/$', future_datetime)
     # url(r'^future_time', )
 
-
-    url(r'^books/', include('books.urls', namespace='books')),
+    url(r'^books/', include('books.urls')),
+    # url(r'^books/', include('books.urls', namespace='books')),
+    # url(r'^books/$', include('books.urls', namespace='books')),
+    # url(r'^books/$', include('books.urls', namespace='books')),
+    # url(r'^test_1/', include('test_1.urls', namespace='test_1')),
     # url(r'^contact/$', include('django_website.contact.urls')),
     # url(r'^community/', include('django_website.aggregator.urls')),
     # url(r'^articles/2003/$', views.special_case_2003),
@@ -63,6 +62,7 @@ urlpatterns = [
     # url(r'^')
     # url(r'^$', views.homepage),
     # url(r'^(\d{4})/([a-z]{3})/$', views.archive_month),
+
 ]
 
 # urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
