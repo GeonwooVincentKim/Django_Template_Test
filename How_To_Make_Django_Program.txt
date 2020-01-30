@@ -11,7 +11,7 @@ How to make Django Project using Pycharm
 
 4. Add a file that you have to make sure that you set virtualenv file location
 that you've already created
---> Example,  It is located in "E:\Django\A\Test\Scripts\python.exe",
+--> Example,  It is located in "Your Directory",
 --> make sure that you have to contact into that directory.
 
 5. Check file directory was successfully connected
