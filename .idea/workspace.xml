@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79880b7a-4874-41a9-9954-c3b01755a153" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How_To_Make_Django_Program.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author_headshots/1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author_headshots/1_LaeB6Y3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_books.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_main.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/Templates/publisher_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/books/Templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/Templates/template_tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/books/Templates/template_tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/my_template_name.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/templatetags/CurrentTimeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/templatetags/CurrentTimeNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/templatetags/review_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/templatetags/review_extras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +47,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
-      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books" />
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templatetags" />
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\templates" />
       <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\reviews\templatetags" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\books\Templates" />
+      <recent name="E:\Django\Django_Template_1_2\MyDjango_Template_1_2\My_Django_Template_1_2\Main\Templates" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -147,10 +127,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="15" y="215" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1580392271920" />
-    <state x="705" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1580345293871">
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1580431999382">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="705" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1580345293871" />
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1580431999382" />
     <state x="344" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577974089521">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

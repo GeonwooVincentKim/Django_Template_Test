@@ -1,5 +1,6 @@
 import csv
 import datetime
+from io import BytesIO
 
 from django import template
 from django.core import mail
@@ -318,7 +319,7 @@ def some_streaming_csv_view(request):
     rows = (["Row {}".format(idx), str(idx)] for idx in range(65536))
     pseudo_buffer = Echo()
     writer = csv.writer(pseudo_buffer)
-    response = StreamingHttpResponse((writer.writerow(rows)
+    response = StreamingHttpResponse((writer.writerow(row)
                                       for row in rows), content_type="text/csv")
     response['Content-Disposition'] \
         = 'attachment;' \
@@ -344,4 +345,31 @@ def pdf_some_view(request):
     # Closing the PDF object ends.
     p.showPage()
     p.save()
+    return response
+
+
+def pdf_some_view_2(request):
+    # Create a HttpResponse Object using appropriate PDF header.
+    response = HttpResponse(content_type='application/pdf')
+    response['Content-Disposition'] \
+        = 'attachment;' \
+          'filename="somefilename.pdf"'
+    buffer = BytesIO()
+
+    # Create a PDF object using BytesIO as "File"
+    p = canvas.Canvas(buffer)
+
+    # Draw PDF Contents.
+    # This is the position where PDF generate.
+    # See the ReportLab documentation for the full list of features.
+    p.drawString(100, 100, "Hello World.")
+
+    # Completely close the PDF object.
+    p.showPage()
+    p.save()
+
+    # Gets the value of the BytesIO buffer and executes it in response.
+    pdf = buffer.getvalue()
+    buffer.close()
+    response.write(pdf)
     return response

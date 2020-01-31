@@ -25,4 +25,5 @@ urlpatterns = [
     url(r'^csv_test/', views.some_view),
     url(r'^csv_test_2/', views.some_streaming_csv_view),
     url(r'^pdf_test/', views.pdf_some_view),
+    url(r'^pdf_test_2/', views.pdf_some_view_2),
 ]
